@@ -1,6 +1,9 @@
 ## Lisa Jacklin
 ### About Me
-I am currently a student at the University of Alaska Fairbanks, working towards a batchelors degree in computer engineering with hopes to graduate in 2024. I hope to be able to use my interest in coding and understanding how computers work in general, to find internships, and eventually the title of a true computer engineer later in the future.
+I am currently a student at the University of Alaska Fairbanks, working towards a batchelors degree in computer engineering with hopes to graduate in 2024. 
+
+Always down to discuss MCPUs, and anything component/hardware.
+Beginning my journey through multiple linux OSs...
 
 #### 📫 How to reach me: ...
   Email: lmjacklin@alaska.edu
