@@ -19,13 +19,9 @@
 ---
 
 ### 📊 GitHub Stats & Realities
+![Lisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LisaJacklin&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LisaJacklin&show_icons=true&theme=tokyonight&count_private=true" alt="Lisa's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=LisaJacklin&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=LisaJacklin&layout=compact&theme=tokyonight)
 ---
 
 ### 🔄 Recent GitHub Activity
